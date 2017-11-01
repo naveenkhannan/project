@@ -1,1 +1,2 @@
-MEGASTAR
+welcom to intelliQ
+Hyderabad Telangana
