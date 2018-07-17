@@ -216,5 +216,16 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+  
+         <distributionManagement>
+    <repository>
+      <id>Releases</id>
+      <url>http://10.150.230.46:8081/repository/Releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>snapshots</id>
+      <url>http://10.150.230.46:8081/repository/Snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
 
 </project>
